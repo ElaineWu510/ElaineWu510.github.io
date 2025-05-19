@@ -1,5 +1,11 @@
-# ElaineWu510.github.io
+# ElaineWu510 首頁
 
-## proceed to my cv
+## personal cv
 
-[cv] (https://ElaineWu510.github.io/cv-md)
+location: https://elainewu510.github.io/cv-md/
+
+## 各課程連結
+
+- Algorithm CLRS 
+- MIS...
+- AI
